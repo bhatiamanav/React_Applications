@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "javascript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+    "typescript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+    "typescript.format.placeOpenBraceOnNewLineForFunctions": true,
+    "prettier.jsxSingleQuote": true
+}
